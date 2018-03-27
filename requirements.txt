@@ -1,0 +1,7 @@
+selenium==3.5.0
+splinter==0.7.7
+requests==2.18.4
+opencv-python==3.4.0.12
+numpy==1.14.2
+Pillow==5.0.0
+imutils==0.4.6
